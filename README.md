@@ -60,7 +60,7 @@ A modern and feature-rich Snake game built with Python Turtle graphics, featurin
    python snake.py
    ```
    Online Play
-- https://replit.com/badge/github/yourusername/snake-game
+- [snake Game](https://replit.com/@badarbhattpk786/snake-game)
 
 - Click the badge above to play instantly in your browser!
 
